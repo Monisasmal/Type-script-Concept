@@ -3,7 +3,7 @@ import Link from "next/link";
 const concept = [
      {name: "What is Type Script?", path:"/concepts/what-is-typescript"},
      {name: "What is Type Annotation?", path:"/concepts/TypeAnnotation"},
-
+     {name: "What is Type Inference?", path:"/concepts/TypeInference"},
 ];
 
 export default function Concepts(){
