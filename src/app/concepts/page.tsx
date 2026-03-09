@@ -6,6 +6,7 @@ const concept = [
      {name: "What is Type Inference?", path:"/concepts/TypeInference"},
      {name: "What is TypeScript Vs JavaScript?", path:"/concepts/TypeScriptVsJavaScript"},
      {name: "What is TypeScript Compiler?", path:"/concepts/TypeScriptCompiler"},
+     {name: "What is Primitive Type?", path:"/concepts/PrimitiveTypes"},
 ];
 
 export default function Concepts(){
