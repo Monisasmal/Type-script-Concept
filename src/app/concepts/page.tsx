@@ -7,6 +7,8 @@ const concept = [
      {name: "What is TypeScript Vs JavaScript?", path:"/concepts/TypeScriptVsJavaScript"},
      {name: "What is TypeScript Compiler?", path:"/concepts/TypeScriptCompiler"},
      {name: "What is Primitive Type?", path:"/concepts/PrimitiveTypes"},
+     {name: "What is Any Type?", path:"/concepts/AnyType"},
+     {name: "What is Unknown Type?", path:"/concepts/UnknownType"},
 ];
 
 export default function Concepts(){
