@@ -13,6 +13,7 @@ const concept = [
      {name: "What is Never Type?", path:"/concepts/NeverType"},
      {name: "What is String Type?", path:"/concepts/StringType"},
      {name: "What is Number Type?", path:"/concepts/NumberType"},
+     {name: "What is Boolean Type?", path:"/concepts/BooleanType"},
 ];
 
 export default function Concepts(){
