@@ -7,27 +7,28 @@ export default function NumberType() {
       </h1>
 
       <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">1. What is Number Type</h2>
+        <h2 className="text-2xl font-semibold mb-2">1. Definition</h2>
         <p>
-          The <strong>number</strong> type is used to represent numeric values
-          such as integers, floating numbers, and calculations.
+          The <strong>number</strong> type represents numeric values such as
+          integers, floating numbers, and calculations.
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">2. Why We Use Number Type</h2>
         <ul className="list-disc ml-6">
-          <li>To store numeric values.</li>
-          <li>To perform mathematical operations.</li>
+          <li>To store numeric values safely.</li>
+          <li>To perform mathematical calculations.</li>
+          <li>To prevent incorrect data types in calculations.</li>
         </ul>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">3. When to Use Number Type</h2>
         <ul className="list-disc ml-6">
-          <li>Product price</li>
-          <li>User age</li>
-          <li>Score or rating systems</li>
+          <li>Product price in e-commerce.</li>
+          <li>User age in profile systems.</li>
+          <li>Scores, ratings, and quantities.</li>
         </ul>
       </section>
 
@@ -35,9 +36,10 @@ export default function NumberType() {
         <h2 className="text-2xl font-semibold mb-2">4. Real World Example</h2>
 
         <pre className="bg-gray-900 text-white p-4 rounded-lg">
-{`let price: number = 500;
-let age: number = 25;`}
+{`let price: number = 45000;
+let quantity: number = 3;`}
         </pre>
+
       </section>
 
       <section className="mb-6">
@@ -46,18 +48,20 @@ let age: number = 25;`}
         </h2>
 
         <p>
-          Incorrect values like text may be assigned which can break
+          Incorrect values like text could be assigned which can break
           calculations in the application.
         </p>
+
       </section>
 
       <section>
-        <h2 className="text-2xl font-semibold mb-2">6. Example</h2>
+        <h2 className="text-2xl font-semibold mb-2">6. Example Code</h2>
 
         <pre className="bg-gray-900 text-white p-4 rounded-lg">
-{`let totalPrice: number = 1000;
-console.log(totalPrice);`}
+{`let total: number = 100 + 200;
+console.log(total);`}
         </pre>
+
       </section>
 
     </div>

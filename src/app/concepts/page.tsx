@@ -14,6 +14,7 @@ const concept = [
      {name: "What is String Type?", path:"/concepts/StringType"},
      {name: "What is Number Type?", path:"/concepts/NumberType"},
      {name: "What is Boolean Type?", path:"/concepts/BooleanType"},
+     {name: "What is Null and Undefined Type?", path:"/concepts/NullandUndefined"},
 ];
 
 export default function Concepts(){
