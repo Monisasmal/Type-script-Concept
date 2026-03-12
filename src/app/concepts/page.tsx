@@ -16,6 +16,9 @@ const concept = [
      {name: "What is Boolean Type?", path:"/concepts/BooleanType"},
      {name: "What is Null and Undefined Type?", path:"/concepts/NullandUndefined"},
      {name: "What is Array Type?", path:"/concepts/ArrayTypes"},
+     {name: "What is Tuple?", path:"/concepts/Tuple"},
+     {name: "What is Enum Type?", path:"/concepts/EnumType"},
+     {name: "What is Object Type?", path:"/concepts/ObjectTypes"},
 ];
 
 export default function Concepts(){
