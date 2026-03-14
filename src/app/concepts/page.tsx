@@ -19,6 +19,8 @@ const concept = [
      {name: "What is Tuple?", path:"/concepts/Tuple"},
      {name: "What is Enum Type?", path:"/concepts/EnumType"},
      {name: "What is Object Type?", path:"/concepts/ObjectTypes"},
+     {name: "What is Function Type Annotation?", path:"/concepts/FunctionTypeAnnotation"},
+     {name: "What is Optional Parameters?", path:"/concepts/OptionalParameters"},
 ];
 
 export default function Concepts(){
