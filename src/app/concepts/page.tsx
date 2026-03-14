@@ -24,6 +24,8 @@ const concept = [
      {name: "What is Default Parameters?", path:"/concepts/DefaultParameters"},
      {name: "What is Rest Parameters?", path:"/concepts/RestParameters"},
      {name: "What is Function Return Type?", path:"/concepts/FunctionReturnTypes"},
+     {name: "What is Arrow Function?", path:"/concepts/ArrowFunctions"},
+     {name: "What is Function Overloading?", path:"/concepts/FunctionOverloading"},
 ];
 
 export default function Concepts(){
