@@ -23,6 +23,7 @@ const concept = [
      {name: "What is Optional Parameters?", path:"/concepts/OptionalParameters"},
      {name: "What is Default Parameters?", path:"/concepts/DefaultParameters"},
      {name: "What is Rest Parameters?", path:"/concepts/RestParameters"},
+     {name: "What is Function Return Type?", path:"/concepts/FunctionReturnTypes"},
 ];
 
 export default function Concepts(){
