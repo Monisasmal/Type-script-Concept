@@ -21,6 +21,8 @@ const concept = [
      {name: "What is Object Type?", path:"/concepts/ObjectTypes"},
      {name: "What is Function Type Annotation?", path:"/concepts/FunctionTypeAnnotation"},
      {name: "What is Optional Parameters?", path:"/concepts/OptionalParameters"},
+     {name: "What is Default Parameters?", path:"/concepts/DefaultParameters"},
+     {name: "What is Rest Parameters?", path:"/concepts/RestParameters"},
 ];
 
 export default function Concepts(){
