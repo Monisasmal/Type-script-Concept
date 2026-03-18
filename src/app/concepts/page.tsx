@@ -26,6 +26,7 @@ const concept = [
      {name: "What is Function Return Type?", path:"/concepts/FunctionReturnTypes"},
      {name: "What is Arrow Function?", path:"/concepts/ArrowFunctions"},
      {name: "What is Function Overloading?", path:"/concepts/FunctionOverloading"},
+     {name: "What is Union Type?", path:"/concepts/UnionTypes"},
 ];
 
 export default function Concepts(){
