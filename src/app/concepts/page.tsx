@@ -30,6 +30,9 @@ const concept = [
      {name: "What is Intersection Type?", path:"/concepts/IntersectionTypes"},
      {name: "What is Literal Type?", path:"/concepts/LiteralTypes"},
      {name: "What is Type Aliases?", path:"/concepts/TypeAliases"},
+     {name: "What is Type Assertions?", path:"/concepts/TypeAssertions"},
+     {name: "What is Type Guards?", path:"/concepts/TypeGuards"},
+     {name: "What is Type Narrowing?", path:"/concepts/TypeNarrowing"},
 ];
 
 export default function Concepts(){
