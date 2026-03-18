@@ -27,9 +27,9 @@ const concept = [
      {name: "What is Arrow Function?", path:"/concepts/ArrowFunctions"},
      {name: "What is Function Overloading?", path:"/concepts/FunctionOverloading"},
      {name: "What is Union Type?", path:"/concepts/UnionTypes"},
-     {name: "What is Union Type?", path:"/concepts/IntersectionTypes"},
-     {name: "What is Union Type?", path:"/concepts/LiteralTypes"},
-
+     {name: "What is Intersection Type?", path:"/concepts/IntersectionTypes"},
+     {name: "What is Literal Type?", path:"/concepts/LiteralTypes"},
+     {name: "What is Type Aliases?", path:"/concepts/TypeAliases"},
 ];
 
 export default function Concepts(){
