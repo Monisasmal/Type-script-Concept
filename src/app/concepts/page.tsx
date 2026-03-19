@@ -34,6 +34,7 @@ const concept = [
      {name: "What is Type Guards?", path:"/concepts/TypeGuards"},
      {name: "What is Type Narrowing?", path:"/concepts/TypeNarrowing"},
      {name: "What is Interface?", path:"/concepts/InterfacesInTypescript"},
+     {name: "What is Interface Optional Properties?", path:"/concepts/InterfaceOptionalProperties"},
 ];
 
 export default function Concepts(){
