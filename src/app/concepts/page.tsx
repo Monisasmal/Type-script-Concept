@@ -39,6 +39,7 @@ const concept = [
      {name: "Interface vs Type Alias in TypeScript?", path:"/concepts/InterfaceVsTypeAlias"},
      {name: "What is  Classes in TypeScript?", path:"/concepts/ClassesInTypeScript"},
      {name: "What is  Constructor in TypeScript?", path:"/concepts/Constructor"},
+     {name: "What is  AccessModifiers in TypeScript?", path:"/concepts/AccessModifiers"},
 ];
 
 export default function Concepts(){
