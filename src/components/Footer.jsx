@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaGlobe } from "react-icons/fa";
 export default function Footer() {
   return (
     <footer className="border-t mt-16 py-6 border-b border-gray-300">
-      <div className="max-w-6xl mx-auto flex items-center justify-between px-6">
+      <div className="max-w-6xl mx-auto flex items-center justify-between px-6 flex gap-6 flex-wrap">
 
         {/* Left */}
         <p className="text-gray-600 text-sm">
