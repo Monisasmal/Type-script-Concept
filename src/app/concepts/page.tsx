@@ -36,6 +36,7 @@ const concept = [
      {name: "What is Interface?", path:"/concepts/InterfacesInTypescript"},
      {name: "What is Interface Optional Properties?", path:"/concepts/InterfaceOptionalProperties"},
      {name: "What is Interface Readonly Properties?", path:"/concepts/InterfaceReadonlyProperties"},
+     {name: "Interface vs Type Alias in TypeScript?", path:"/concepts/InterfaceVsTypeAlias"},
 
 ];
 
