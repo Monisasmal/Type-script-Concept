@@ -41,6 +41,7 @@ const concept = [
      {name: "What is  Constructor in TypeScript?", path:"/concepts/Constructor"},
      {name: "What is  AccessModifiers in TypeScript?", path:"/concepts/AccessModifiers"},
      {name: "What is Readonly Property?", path:"/concepts/ReadonlyInClasses"},
+     {name: "What are Static Properties?", path:"/concepts/StaticProperties"},
 ];
 
 export default function Concepts(){
