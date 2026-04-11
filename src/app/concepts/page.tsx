@@ -43,6 +43,7 @@ const concept = [
      {name: "What is Readonly Property?", path:"/concepts/ReadonlyInClasses"},
      {name: "What are Static Properties?", path:"/concepts/StaticProperties"},
      {name: "What are GettersSetters?", path:"/concepts/GettersSetters"},
+     {name: "What is Abstract Class?", path:"/concepts/AbstractClasses"},
 ];
 
 export default function Concepts(){
