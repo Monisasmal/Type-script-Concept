@@ -44,6 +44,7 @@ const concept = [
      {name: "What are Static Properties?", path:"/concepts/StaticProperties"},
      {name: "What are GettersSetters?", path:"/concepts/GettersSetters"},
      {name: "What is Abstract Class?", path:"/concepts/AbstractClasses"},
+     {name: "Implementing Interfaces in TypeScript?", path:"/concepts/ImplementingInterfaces"},
 ];
 
 export default function Concepts(){
