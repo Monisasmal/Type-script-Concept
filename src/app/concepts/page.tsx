@@ -47,6 +47,7 @@ const concept = [
      {name: "Implementing Interfaces in TypeScript?", path:"/concepts/ImplementingInterfaces"},
      {name: "What is  Generics in TypeScript?", path:"/concepts/GenericsInTypeScript"},
      {name: "What are Generic Constraints?", path:"/concepts/GenericConstraints"},
+     {name: "Mapped Types in TypeScript?", path:"/concepts/MappedTypes"},
 ];
 
 export default function Concepts(){
