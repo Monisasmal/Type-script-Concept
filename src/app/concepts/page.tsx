@@ -48,6 +48,7 @@ const concept = [
      {name: "What is  Generics in TypeScript?", path:"/concepts/GenericsInTypeScript"},
      {name: "What are Generic Constraints?", path:"/concepts/GenericConstraints"},
      {name: "Mapped Types in TypeScript?", path:"/concepts/MappedTypes"},
+     {name: "Conditional Types in TypeScript?", path:"/concepts/ConditionalTypes"},
 ];
 
 export default function Concepts(){
